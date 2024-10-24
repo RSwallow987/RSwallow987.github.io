@@ -11,11 +11,11 @@ description: This is where I come to think
 github_username: RSwallow987
 
 # Email and twitter are optional:
-email:rswallow987@gmail.com
+email: rswallow987@gmail.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:True
+use_math: True
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
